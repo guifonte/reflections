@@ -11,3 +11,8 @@ The staging area stays between the repository and the directory. It contains whi
 How can you use the staging area to make sure you have one commit per logical change?
 
 Through the staging area, we can compare with the last commit and with your working directory and avoid many logical changes
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you want to try something different from the master branch.
