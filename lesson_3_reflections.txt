@@ -18,5 +18,7 @@ What is the benefit of having a copy of the last known state of the remote store
 The benefit is that with it is possible to do a foward merge
 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
+Sharing the code file. It would be harder but would not need to have git installed.
 
