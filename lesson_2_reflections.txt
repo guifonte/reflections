@@ -16,3 +16,8 @@ Through the staging area, we can compare with the last commit and with your work
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When you want to try something different from the master branch.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It result in a commit that has the additions and the removals of the lines made in the branches from the common starting point.
