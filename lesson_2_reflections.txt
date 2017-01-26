@@ -21,3 +21,8 @@ When you want to try something different from the master branch.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 It result in a commit that has the additions and the removals of the lines made in the branches from the common starting point.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: fast
+Cons: can have conflicts
