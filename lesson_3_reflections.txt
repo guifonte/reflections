@@ -22,3 +22,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 Sharing the code file. It would be harder but would not need to have git installed.
 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+It's better to use a separate branch to avoid spoil the master, and when the project is collaborated. It is good that people see the update from other before putting then in the master, because it can be conflictual.
